@@ -1,11 +1,11 @@
 Hi there:wq¡
 
-How are you?
+How are you?:
 
-doing go
-hjdsjkfsdjkd
+doing 
 parent of 359f962 (new change)
 parent of 359f962 (new change)
 
 parent of 359f962 (new change)
  parent of 3ab3a14 (my changes)
+parent of 3ab3a14 (my changes)
